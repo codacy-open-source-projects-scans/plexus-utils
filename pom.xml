@@ -20,7 +20,7 @@ limitations under the License.
   <parent>
     <groupId>org.codehaus.plexus</groupId>
     <artifactId>plexus</artifactId>
-    <version>19</version>
+    <version>24</version>
   </parent>
 
   <artifactId>plexus-utils</artifactId>
@@ -30,6 +30,14 @@ limitations under the License.
   <description>A collection of various utility classes to ease working with strings, files, command lines and
     more.</description>
   <url>https://codehaus-plexus.github.io/plexus-utils/</url>
+
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
 
   <scm>
     <connection>scm:git:https://github.com/codehaus-plexus/plexus-utils.git</connection>
